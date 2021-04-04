@@ -2,24 +2,20 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/ottomated/CrewLink">
+  <a href="https://github.com/StrongSpider/WorseCrewLink">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">CrewLink</h3>
+  <h3 align="center">WorseCrewLink</h3>
 
   <p align="center">
     Free, open, Among Us proximity voice chat.
     <br />
-    <a href="https://github.com/ottomated/CrewLink/issues">Report Bug</a>
+    <a href="https://github.com/StrongSpider/WorseCrewLink/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ottomated/CrewLink/issues">Request Feature</a>
+    <a href="https://github.com/StrongSpider/WorseCrewLink/issues">Request Feature</a>
     ·
     <a href="#installation"><b>INSTALLATION INSTRUCTIONS</b></a>
-  </p>
-  <p align="center">
-  <b><a href="https://paypal.me/ottomated">DONATE TO THE PROJECT</a></b>
-  (all donations will be used for server costs or paying for college)
   </p>
 </p>
 
@@ -44,7 +40,7 @@ This project implements proximity voice chat in Among Us. Everyone in an Among U
 
 ## Installation
 
-Download the latest version from [releases](https://github.com/ottomated/CrewLink/releases) and run the `CrewLink-Setup-X.X.X.exe` file. You may get antivirus warnings, because this program hooks into the Among Us process to read game data.
+Download the latest version from [releases](https://github.com/StrongSpider/WorseCrewLink/releases) and run the `CrewLink-Setup-X.X.X.exe` file. You may get antivirus warnings, because this program hooks into the Among Us process to read game data.
 
 If you can, you should use a private server by deploying [this repository](https://github.com/ottomated/CrewLink-server).
 
